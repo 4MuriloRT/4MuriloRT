@@ -13,13 +13,13 @@
     alt="Estatísticas do GitHub" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=4MuriloRT&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=4MuriloRT&show_icons=true&theme=dark&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4MuriloRT&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=4MuriloRT&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
@@ -34,10 +34,9 @@
 
 
 ### 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/murilo-rodrigues-taborda-558043276/)  
-- 📷 [Instagram](https://www.instagram.com/zmurilo_rt/)
-- 📧 **murilo.dev46@gmail.com**
-- 📱 (38) 99885-4375
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=13369e&color:FFF)](mailto:murilo.dev46@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=13369e&color:FFF)](https://www.linkedin.com/in/murilo-rodrigues-taborda-558043276/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=13369e&color:FFF)](https://www.instagram.com/zmurilo_rt/)
 
 ---
 
