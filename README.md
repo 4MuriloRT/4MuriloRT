@@ -1,9 +1,9 @@
 ## 👋 Olá! Eu sou o Murilo Taborda
 
+🖥️ Técnico em Informática - IFNMG.<br>
 💻 Desenvolvedor Front-End, sempre buscando aprender e criar projetos que façam a diferença.  
 🎯 Foco em **JavaScript**, **ReactJS**, **Node.js** e desenvolvimento de interfaces modernas.  
 🚀 Explorando novas tecnologias e boas práticas para escrever código limpo e eficiente.
-🖥️ Técnico em Informática - IFNMG 
 
 ---
 
